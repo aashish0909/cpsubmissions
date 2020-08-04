@@ -786,6 +786,22 @@
     ],
     "timestamp": "Jan/10/2021 09:09"
   },
+  "CF88889040": {
+    "contest_id": 451,
+    "language": "GNU C++17",
+    "path": "codeforces\\451\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Game With Sticks",
+    "problem_url": "https://codeforces.com/contest/451/problem/A",
+    "submission_id": "CF88889040",
+    "submission_url": "https://codeforces.com/contest/451/submission/88889040",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Aug/04/2020 22:02"
+  },
   "CF89244183": {
     "contest_id": 1393,
     "language": "GNU C++17",
