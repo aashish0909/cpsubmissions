@@ -1325,6 +1325,23 @@
     ],
     "timestamp": "Aug/11/2020 16:25"
   },
+  "CF90411799": {
+    "contest_id": 447,
+    "language": "GNU C++14",
+    "path": "codeforces\\447\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "DZY Loves Strings",
+    "problem_url": "https://codeforces.com/contest/447/problem/B",
+    "submission_id": "CF90411799",
+    "submission_url": "https://codeforces.com/contest/447/submission/90411799",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Aug/19/2020 23:19"
+  },
   "CF90415184": {
     "contest_id": 507,
     "language": "GNU C++14",
