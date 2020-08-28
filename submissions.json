@@ -1325,6 +1325,23 @@
     ],
     "timestamp": "Aug/11/2020 16:25"
   },
+  "CF91186240": {
+    "contest_id": 402,
+    "language": "GNU C++14",
+    "path": "codeforces\\402\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Nuts",
+    "problem_url": "https://codeforces.com/contest/402/problem/A",
+    "submission_id": "CF91186240",
+    "submission_url": "https://codeforces.com/contest/402/submission/91186240",
+    "tags": [
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Aug/28/2020 12:31"
+  },
   "CF91190458": {
     "contest_id": 404,
     "language": "GNU C++14",
