@@ -1325,6 +1325,27 @@
     ],
     "timestamp": "Aug/11/2020 16:25"
   },
+  "CF91300578": {
+    "contest_id": 489,
+    "language": "GNU C++14",
+    "path": "codeforces\\489\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "BerSU Ball",
+    "problem_url": "https://codeforces.com/contest/489/problem/B",
+    "submission_id": "CF91300578",
+    "submission_url": "https://codeforces.com/contest/489/submission/91300578",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graph matchings",
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Aug/29/2020 22:24"
+  },
   "CF91301369": {
     "contest_id": 579,
     "language": "GNU C++14",
