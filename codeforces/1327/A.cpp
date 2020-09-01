@@ -31,9 +31,7 @@ int main()
 
     	if(n<pow(k,2))
     		flag=0;
-    	else if(n%2!=0 && k%2==0)
-    		flag=0;
-    	else if(n%2==0 && k%2!=0)
+    	else if(n%2!=k%2)
     		flag=0;
     	else
     		flag=1;
