@@ -31,10 +31,10 @@ int main()
         ll max = min(m, play);
         m -= max;
         k--;
-        ll m2 = m/k;
+        ll max2 = m/k;
         if(m%k!=0)
-        	m2++;
-        cout << max - m2 << "\n";
+        	max2++;
+        cout << max - max2 << "\n";
     }
 
 }
