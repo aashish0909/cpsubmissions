@@ -31,9 +31,7 @@ int main()
         ll max = min(m, play);
         m -= max;
         k--;
-        ll max2 = m/k;
-        if(m%k!=0)
-        	max2++;
+        ll max2 = (m - 1 + k) / k;
         cout << max - max2 << endl;
     }
 
