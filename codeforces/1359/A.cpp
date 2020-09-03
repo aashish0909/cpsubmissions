@@ -34,7 +34,7 @@ int main()
         ll max2 = m/k;
         if(m%k!=0)
         	max2++;
-        cout << max - max2 << "\n";
+        cout << max - max2 << endl;
     }
 
 }
