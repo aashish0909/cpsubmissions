@@ -1,4 +1,20 @@
 {
+  "AC16786099": {
+    "contest_id": "abc125",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc125\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Resale",
+    "problem_url": "https://atcoder.jp/contests/abc125/tasks/abc125_b",
+    "submission_id": "AC16786099",
+    "submission_url": "https://atcoder.jp/contests/abc125/submissions/16786099",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Sep/16/2020 18:38"
+  },
   "AC16790097": {
     "contest_id": "abc125",
     "language": "C++ (GCC 9.2.1)",
