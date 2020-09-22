@@ -1325,6 +1325,23 @@
     ],
     "timestamp": "Aug/11/2020 16:25"
   },
+  "CF93483225": {
+    "contest_id": 766,
+    "language": "GNU C++14",
+    "path": "codeforces\\766\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mahmoud and Longest Uncommon Subsequence",
+    "problem_url": "https://codeforces.com/contest/766/problem/A",
+    "submission_id": "CF93483225",
+    "submission_url": "https://codeforces.com/contest/766/submission/93483225",
+    "tags": [
+      "constructive algorithms",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Sep/22/2020 18:18"
+  },
   "CF93484792": {
     "contest_id": 919,
     "language": "GNU C++14",
