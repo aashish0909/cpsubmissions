@@ -37,11 +37,9 @@ int main()
         {
             cin >> a[i];
         }
-        ll maxi=0;
-        f(n)
-        maxi=max(a[i],maxi);
-        maxi+=2;
-        string s(maxi, 'a');
+        string s(200, 'a');
+        bool flag = 0;
+        char ins[2] = {'a', 'b'};
         cout<<s<<endl;
         f(n)
 
