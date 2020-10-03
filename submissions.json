@@ -786,6 +786,22 @@
     ],
     "timestamp": "Jan/10/2021 09:09"
   },
+  "CF94564327": {
+    "contest_id": 1157,
+    "language": "GNU C++14",
+    "path": "codeforces\\1157\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Reachable Numbers",
+    "problem_url": "https://codeforces.com/contest/1157/problem/A",
+    "submission_id": "CF94564327",
+    "submission_url": "https://codeforces.com/contest/1157/submission/94564327",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Oct/03/2020 16:37"
+  },
   "CF94566212": {
     "contest_id": 1385,
     "language": "GNU C++14",
