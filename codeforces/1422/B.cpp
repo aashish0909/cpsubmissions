@@ -65,7 +65,7 @@ int main()
                 //cout << abs(a[i][j] - sum) + abs([n - i - 1][j] - sum) + abs(sum - a[i][m - 1 - j]) + abs(sum - a[n - 1 - i][m - j - 1]);
                 steps += min(med1, med2);
                 //cout << "MEDIAN : " << median[1] << space << median[2] << endl;
-                
+                median.clear();
             }
         }
         //cout << "## " << steps << endl;
