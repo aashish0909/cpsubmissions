@@ -132,19 +132,10 @@ int main()
         cin >> rgb[0] >> rgb[1] >> rgb[2];
         sort(all(rgb));
 
-        ll days = min(rgb[0], rgb[2]);
-        if(rgb[0] >= (rgb[2] - rgb[1]))
-        {
-            rgb[0] -= rgb[2] - rgb[1];
-            rgb[2] = rgb[1];
-
-            rgb[2] -= rgb[0] / 2;
-            rgb[1] -= rgb[0] / 2 + (rgb[0] % 2);
-        }
+        if (rgb[2] <= rgb[0] + rgb[1])
+            cout << (rgb[0] + rgb[1] + rgb[2]) / 2 << endl;
         else
-            rgb[2] -= rgb[0];
-        days += min(rgb[2], rgb[1]);
-        cout << days << endl;
+            cout << rgb[0] + rgb[1] << endl;
 
     }
 
