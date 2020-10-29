@@ -1,4 +1,3 @@
-//bb73027e4e049ea08bbdcc602a90875efc8986c125d751519510635fa45e249
 #include <bits/stdc++.h>
 using namespace std;
 
