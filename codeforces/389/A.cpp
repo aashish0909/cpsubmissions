@@ -120,8 +120,6 @@ void _print(T t, V... v)
 
 ll testcases;
 
-
-
 int main()
 {
     TLE_na_ho;
@@ -132,16 +130,28 @@ int main()
     {
         ll n;
         cin >> n;
-        ll a[n];
+        vll a(n);
         ain(a, n);
-        sort(a, a + n);
-
-        ll ans = a[0];
-        rep(i, 1, n)
+        bool flag = 1;
+        while(flag)
         {
-            ans = __gcd(ans, a[i]);
+            sort(all(a));
+            debug(a);
+            repr(i, n - 1, 1)
+            {
+                if(a[i] > a[i-1])
+                {
+                    a[i] = a[i] - a[i - 1];
+                }
+            }
+            sort(all(a));
+            if(a[0] == a[n - 1])
+                flag = 0;
         }
-        cout << ans *n;
+        ll sum = 0;
+        f(n)
+        sum += a[i];
+        cout << sum;
     }
 
 }
