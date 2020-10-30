@@ -786,6 +786,21 @@
     ],
     "timestamp": "Jan/10/2021 09:09"
   },
+  "CF97155124": {
+    "contest_id": 390,
+    "language": "GNU C++17",
+    "path": "codeforces\\390\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Inna, Dima and Song",
+    "problem_url": "https://codeforces.com/contest/390/problem/B",
+    "submission_id": "CF97155124",
+    "submission_url": "https://codeforces.com/contest/390/submission/97155124",
+    "tags": [
+      "implementation"
+    ],
+    "timestamp": "Oct/30/2020 15:02"
+  },
   "CF97224981": {
     "contest_id": 389,
     "language": "GNU C++17",
