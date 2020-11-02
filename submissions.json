@@ -1,4 +1,20 @@
 {
+  "AC17838257": {
+    "contest_id": "abc142",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc142\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Odds of Oddness",
+    "problem_url": "https://atcoder.jp/contests/abc142/tasks/abc142_a",
+    "submission_id": "AC17838257",
+    "submission_url": "https://atcoder.jp/contests/abc142/submissions/17838257",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/02/2020 14:51"
+  },
   "AC17838311": {
     "contest_id": "abc142",
     "language": "C++ (GCC 9.2.1)",
