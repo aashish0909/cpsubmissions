@@ -786,6 +786,23 @@
     ],
     "timestamp": "Jan/10/2021 09:09"
   },
+  "CF97703947": {
+    "contest_id": 834,
+    "language": "GNU C++17",
+    "path": "codeforces\\834\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Festive Evening",
+    "problem_url": "https://codeforces.com/contest/834/problem/B",
+    "submission_id": "CF97703947",
+    "submission_url": "https://codeforces.com/contest/834/submission/97703947",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Nov/05/2020 18:12"
+  },
   "CF97727140": {
     "contest_id": 519,
     "language": "GNU C++17",
