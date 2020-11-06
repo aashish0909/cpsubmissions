@@ -786,6 +786,19 @@
     ],
     "timestamp": "Jan/10/2021 09:09"
   },
+  "CF97766365": {
+    "contest_id": 393,
+    "language": "GNU C++17",
+    "path": "codeforces\\393\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Three matrices",
+    "problem_url": "https://codeforces.com/contest/393/problem/B",
+    "submission_id": "CF97766365",
+    "submission_url": "https://codeforces.com/contest/393/submission/97766365",
+    "tags": [],
+    "timestamp": "Nov/06/2020 15:19"
+  },
   "CF97836952": {
     "contest_id": 1366,
     "language": "GNU C++17",
