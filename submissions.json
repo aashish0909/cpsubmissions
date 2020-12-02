@@ -1,4 +1,20 @@
 {
+  "AC18529543": {
+    "contest_id": "jsc2019-qual",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\jsc2019-qual\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Kleene Inversion",
+    "problem_url": "https://atcoder.jp/contests/jsc2019-qual/tasks/jsc2019_qual_b",
+    "submission_id": "AC18529543",
+    "submission_url": "https://atcoder.jp/contests/jsc2019-qual/submissions/18529543",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/02/2020 15:41"
+  },
   "AC18593961": {
     "contest_id": "arc110",
     "language": "C++ (GCC 9.2.1)",
