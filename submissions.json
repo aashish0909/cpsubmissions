@@ -1,4 +1,20 @@
 {
+  "AC18593961": {
+    "contest_id": "arc110",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\arc110\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Redundant Redundancy",
+    "problem_url": "https://atcoder.jp/contests/arc110/tasks/arc110_a",
+    "submission_id": "AC18593961",
+    "submission_url": "https://atcoder.jp/contests/arc110/submissions/18593961",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/05/2020 19:10"
+  },
   "AC18594084": {
     "contest_id": "arc110",
     "language": "C++ (GCC 9.2.1)",

@@ -22,11 +22,29 @@ int main()
         ll n;
         cin >> n;
 
-        ll ans = 2;
-        for(ll i = 3; i <= n; i++)
-            ans = (ans * i) / __gcd(ans, i);
+        ll ans = -1;
+        bool f = true;
+        for(ll i = 2329089562801; i >= n; i -= 2)
+        {
+            f = true;
+            for(ll j = n; j >= 2; j--)
+            {
 
-        cout << ans + 1 << endl;
+                if((i % j) != 1)
+                {
+                    f = false;
+                    break;
+                }
+            }
+
+            if(f)
+            {
+                ans = i;
+                break;
+            }
+        }
+
+        cout << ans << endl;
     }
 
 }
