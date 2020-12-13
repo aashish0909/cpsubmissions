@@ -21,10 +21,27 @@ void solve()
 {
     ll n;
     cin >> n;
-    --n;
-    ll ans = 1;
-    repe(i, 1, 11)
-    ans *= n--, ans /= i;
+    n--;
+    ll r = 11;
+    ll ans = 1, k = 1;
+
+    if(n - r < r)
+        r = n - r;
+
+    if(r != 0)
+    {
+        while(r)
+        {
+            ans *= n;
+            k *= r;
+            ll m = __gcd(ans, k);
+            ans /= m;
+            k /= m;
+            n--, r--;
+        }
+    }
+    else
+        ans = 1;
     cout << ans;
 }
 
