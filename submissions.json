@@ -1,4 +1,20 @@
 {
+  "CF101656791": {
+    "contest_id": 1077,
+    "language": "GNU C++17",
+    "path": "codeforces\\1077\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Frog Jumping",
+    "problem_url": "https://codeforces.com/contest/1077/problem/A",
+    "submission_id": "CF101656791",
+    "submission_url": "https://codeforces.com/contest/1077/submission/101656791",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/18/2020 21:35"
+  },
   "CF101657882": {
     "contest_id": 1077,
     "language": "GNU C++17",
