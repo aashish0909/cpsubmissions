@@ -1,4 +1,21 @@
 {
+  "CF103138210": {
+    "contest_id": 602,
+    "language": "GNU C++17",
+    "path": "codeforces\\602\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Two Bases",
+    "problem_url": "https://codeforces.com/contest/602/problem/A",
+    "submission_id": "CF103138210",
+    "submission_url": "https://codeforces.com/contest/602/submission/103138210",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Jan/04/2021 07:51"
+  },
   "CF103140195": {
     "contest_id": 602,
     "language": "GNU C++17",
