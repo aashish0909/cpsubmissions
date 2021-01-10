@@ -24,7 +24,7 @@ void solve()
     int n, m;
     cin >> n >> m;
     int power = p(10, n, m * m);
-    int ans = power / m;
+    int ans = power / m % m;
     cout << ans;
 }
 
