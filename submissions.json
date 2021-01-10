@@ -1,4 +1,20 @@
 {
+  "AC19359542": {
+    "contest_id": "arc111",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\arc111\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Simple Math 2",
+    "problem_url": "https://atcoder.jp/contests/arc111/tasks/arc111_a",
+    "submission_id": "AC19359542",
+    "submission_url": "https://atcoder.jp/contests/arc111/submissions/19359542",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/10/2021 19:59"
+  },
   "CF101552043": {
     "contest_id": 1463,
     "language": "GNU C++17",
@@ -1324,40 +1340,6 @@
       "*900"
     ],
     "timestamp": "Aug/11/2020 16:25"
-  },
-  "CF90382581": {
-    "contest_id": 441,
-    "language": "GNU C++14",
-    "path": "codeforces\\441\\A.cpp",
-    "platform": "Codeforces",
-    "problem_index": "A",
-    "problem_name": "Valera and Antique Items",
-    "problem_url": "https://codeforces.com/contest/441/problem/A",
-    "submission_id": "CF90382581",
-    "submission_url": "https://codeforces.com/contest/441/submission/90382581",
-    "tags": [
-      "implementation",
-      "*1000"
-    ],
-    "timestamp": "Aug/19/2020 16:45"
-  },
-  "CF90386229": {
-    "contest_id": 508,
-    "language": "GNU C++14",
-    "path": "codeforces\\508\\B.cpp",
-    "platform": "Codeforces",
-    "problem_index": "B",
-    "problem_name": "Anton and currency you all know",
-    "problem_url": "https://codeforces.com/contest/508/problem/B",
-    "submission_id": "CF90386229",
-    "submission_url": "https://codeforces.com/contest/508/submission/90386229",
-    "tags": [
-      "greedy",
-      "math",
-      "strings",
-      "*1300"
-    ],
-    "timestamp": "Aug/19/2020 17:36"
   },
   "CF90411799": {
     "contest_id": 447,
