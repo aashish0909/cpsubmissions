@@ -1,27 +1,35 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-int main(){
-	int t;
-	cin>>t;
-	while(t--)
-	{
-		int n,i;
-		cin>>n;
-		bool ans[n+1];
-		memset(ans,false,sizeof(ans));
-		int a[2*n],b[n];
-		int j=0;
-		for(i=0;i<2*n;i++){
-			cin>>a[i];
-			if(ans[a[i]]==false)
-			{
-				b[j]=a[i];
-				j++;
-				ans[a[i]]=true;
-			}
-		}
-		for(i=0;i<n;i++)
-			cout<<b[i]<<" ";
-		cout<<endl;
-	}
+
+#define int long long int
+#define endl "\n"
+#define aashish_999 ios_base::sync_with_stdio(false);cin.tie(NULL)
+
+void solve()
+{
+    int n;
+    cin >> n;
+    vector<pair<int, int>> pos(n);
+    for (int i = 0; i < 2 * n; i++) {
+        int x;
+        cin >> x;
+        pos[x - 1] = {i, x};
+    }
+
+    sort(pos.begin(), pos.end());
+    for (auto x : pos)
+        cout << x.second << " ";
+    cout << endl;
+}
+
+int32_t main()
+{
+    aashish_999;
+
+    int testcases = 1;
+    cin >> testcases;
+    while (testcases--)
+    {
+        solve();
+    }
 }
