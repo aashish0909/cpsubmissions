@@ -13,16 +13,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-349 | [B - Inflation](https://codeforces.com/contest/1476/problem/B) | [GNU C++17](./codeforces/1476/B.cpp) | `binary search` `brute force` `greedy` `math` | Jan/30/2021 12:49 | 
-348 | [A - K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | [GNU C++17](./codeforces/1476/A.cpp) | `binary search` `constructive algorithms` `greedy` `math` | Jan/29/2021 20:28 | 
-347 | [A - Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | [GNU C++17](./codeforces/110/A.cpp) | `implementation` `*800` | Jan/28/2021 23:25 | 
-346 | [A - Tram](https://codeforces.com/contest/116/problem/A) | [GNU C++17](./codeforces/116/A.cpp) | `implementation` `*800` | Jan/28/2021 23:20 | 
-345 | [A - Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | [GNU C++17](./codeforces/977/A.cpp) | `implementation` `*800` | Jan/28/2021 23:17 | 
-344 | [C - Load Balancing](https://codeforces.com/contest/609/problem/C) | [GNU C++17](./codeforces/609/C.cpp) | `implementation` `math` `*1500` | Jan/28/2021 17:20 | 
-343 | [B - Книга - лучший подарок](https://codeforces.com/contest/609/problem/B) | [GNU C++17](./codeforces/609/B.cpp) | `constructive algorithms` `implementation` `*1100` | Jan/28/2021 17:00 | 
-342 | [A - Флеш-карты](https://codeforces.com/contest/609/problem/A) | [GNU C++17](./codeforces/609/A.cpp) | `greedy` `implementation` `sortings` `*800` | Jan/28/2021 16:38 | 
-341 | [B - Motarack's Birthday](https://codeforces.com/contest/1301/problem/B) | [GNU C++17](./codeforces/1301/B.cpp) | `binary search` `greedy` `ternary search` `*1500` | Jan/20/2021 09:34 | 
-340 | [C - Array Destruction](https://codeforces.com/contest/1474/problem/C) | [GNU C++17](./codeforces/1474/C.cpp) | `brute force` `constructive algorithms` `data structures` `greedy` `implementation` `sortings` `*1700` | Jan/19/2021 23:23 | 
+350 | [B - Inflation](https://codeforces.com/contest/1476/problem/B) | [GNU C++17](./codeforces/1476/B.cpp) | `binary search` `brute force` `greedy` `math` | Jan/30/2021 12:49 | 
+349 | [A - K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | [GNU C++17](./codeforces/1476/A.cpp) | `binary search` `constructive algorithms` `greedy` `math` | Jan/29/2021 20:28 | 
+348 | [A - Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | [GNU C++17](./codeforces/110/A.cpp) | `implementation` `*800` | Jan/28/2021 23:25 | 
+347 | [A - Tram](https://codeforces.com/contest/116/problem/A) | [GNU C++17](./codeforces/116/A.cpp) | `implementation` `*800` | Jan/28/2021 23:20 | 
+346 | [A - Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | [GNU C++17](./codeforces/977/A.cpp) | `implementation` `*800` | Jan/28/2021 23:17 | 
+345 | [C - Load Balancing](https://codeforces.com/contest/609/problem/C) | [GNU C++17](./codeforces/609/C.cpp) | `implementation` `math` `*1500` | Jan/28/2021 17:20 | 
+344 | [B - Книга - лучший подарок](https://codeforces.com/contest/609/problem/B) | [GNU C++17](./codeforces/609/B.cpp) | `constructive algorithms` `implementation` `*1100` | Jan/28/2021 17:00 | 
+343 | [A - Флеш-карты](https://codeforces.com/contest/609/problem/A) | [GNU C++17](./codeforces/609/A.cpp) | `greedy` `implementation` `sortings` `*800` | Jan/28/2021 16:38 | 
+342 | [B - Motarack's Birthday](https://codeforces.com/contest/1301/problem/B) | [GNU C++17](./codeforces/1301/B.cpp) | `binary search` `greedy` `ternary search` `*1500` | Jan/20/2021 09:34 | 
+341 | [C - Array Destruction](https://codeforces.com/contest/1474/problem/C) | [GNU C++17](./codeforces/1474/C.cpp) | `brute force` `constructive algorithms` `data structures` `greedy` `implementation` `sortings` `*1700` | Jan/19/2021 23:23 | 
+340 | [B - Different Divisors](https://codeforces.com/contest/1474/problem/B) | [GNU C++17](./codeforces/1474/B.cpp) | `binary search` `constructive algorithms` `greedy` `math` `number theory` `*1000` | Jan/19/2021 20:39 | 
 339 | [C - Three Bags](https://codeforces.com/contest/1467/problem/C) | [GNU C++17](./codeforces/1467/C.cpp) | `constructive algorithms` `greedy` `*1900` | Jan/12/2021 00:41 | 
 338 | [A - Simple Math 2](https://atcoder.jp/contests/arc111/tasks/arc111_a) | [C++ (GCC 9.2.1)](./atcoder/arc111/A.cpp) | `AtCoder` `*300` | Jan/10/2021 19:59 | 
 337 | [C - ABC Tournament](https://atcoder.jp/contests/abc188/tasks/abc188_c) | [C++ (GCC 9.2.1)](./atcoder/abc188/C.cpp) | `AtCoder` `*300` | Jan/10/2021 18:25 | 
