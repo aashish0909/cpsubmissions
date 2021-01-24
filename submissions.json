@@ -655,6 +655,22 @@
     ],
     "timestamp": "Jan/10/2021 19:59"
   },
+  "AC19680860": {
+    "contest_id": "abc189",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc189\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Mandarin Orange",
+    "problem_url": "https://atcoder.jp/contests/abc189/tasks/abc189_c",
+    "submission_id": "AC19680860",
+    "submission_url": "https://atcoder.jp/contests/abc189/submissions/19680860",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/24/2021 22:35"
+  },
   "AC19778335": {
     "contest_id": "abc190",
     "language": "C++ (GCC 9.2.1)",
