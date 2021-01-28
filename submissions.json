@@ -1459,6 +1459,23 @@
     ],
     "timestamp": "Jan/12/2021 00:41"
   },
+  "CF105662694": {
+    "contest_id": 609,
+    "language": "GNU C++17",
+    "path": "codeforces\\609\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Load Balancing",
+    "problem_url": "https://codeforces.com/contest/609/problem/C",
+    "submission_id": "CF105662694",
+    "submission_url": "https://codeforces.com/contest/609/submission/105662694",
+    "tags": [
+      "implementation",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Jan/28/2021 17:20"
+  },
   "CF105773919": {
     "contest_id": 977,
     "language": "GNU C++17",
