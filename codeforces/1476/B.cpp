@@ -14,27 +14,18 @@ void solve()
     int a[n];
     for (int i = 0; i < n; i++) cin >> a[i];
 
-    int sum = 0;
-    int prefix[n];
-    prefix[0] = a[0];
-    for (int i = 1; i < n; i++)
-        prefix[i] = a[i] + prefix[i - 1];
-
-    for (int i = n - 1; i >= 1; i--) {
-        int diff = (prefix[i - 1] * k) - (a[i] * 100);
-        int per = ceil((double)abs(diff) / k);
-        if (diff >= 0)
-            continue;
+    int sum = a[0];
+    int ans = 0;
+    for (int i = 1; i < n; i++) {
+        if (a[i] * 100 <= k * sum)
+            sum += a[i];
         else {
-            sum += per;
-            a[0] += per;
-            prefix[0] = a[0];
-            for (int j = 1; j <= i; j++)
-                prefix[j] = a[j] + prefix[j - 1];
+            int req = ceil((double)((a[i] * 100) - (k * sum)) / k);
+            ans += req;
+            sum += a[i] + req;
         }
     }
-
-    cout << sum << endl;
+    cout << ans << endl;
 }
 
 int32_t main()
