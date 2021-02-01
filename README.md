@@ -13,15 +13,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-370 | [C - Ball in Berland](https://codeforces.com/contest/1475/problem/C) | [GNU C++17](./codeforces/1475/C.cpp) | `combinatorics` `graphs` `math` `*1400` | Feb/09/2021 00:25 | 
-369 | [C - Searching Local Minimum](https://codeforces.com/contest/1480/problem/C) | [GNU C++17](./codeforces/1480/C.cpp) | `binary search` `interactive` `ternary search` `*1700` | Feb/08/2021 23:02 | 
-368 | [B - The Great Hero](https://codeforces.com/contest/1480/problem/B) | [GNU C++17](./codeforces/1480/B.cpp) | `greedy` `implementation` `sortings` | Feb/08/2021 22:50 | 
-367 | [A - Yet Another String Game](https://codeforces.com/contest/1480/problem/A) | [GNU C++17](./codeforces/1480/A.cpp) | `games` `greedy` `strings` | Feb/08/2021 22:22 | 
-366 | [B - New Colony](https://codeforces.com/contest/1481/problem/B) | [GNU C++17](./codeforces/1481/B.cpp) | `brute force` `greedy` `implementation` `*1100` | Feb/05/2021 22:51 | 
-365 | [A - Space Navigation ](https://codeforces.com/contest/1481/problem/A) | [GNU C++17](./codeforces/1481/A.cpp) | `greedy` `strings` `*800` | Feb/05/2021 20:19 | 
-364 | [B - Vika and Squares](https://codeforces.com/contest/610/problem/B) | [GNU C++17](./codeforces/610/B.cpp) | `constructive algorithms` `implementation` `*1300` | Feb/03/2021 16:25 | 
-363 | [A - Pasha and Stick](https://codeforces.com/contest/610/problem/A) | [GNU C++17](./codeforces/610/A.cpp) | `combinatorics` `math` `*1000` | Feb/03/2021 15:46 | 
-362 | [B - Nezzar and Lucky Number](https://codeforces.com/contest/1478/problem/B) | [GNU C++17](./codeforces/1478/B.cpp) | `brute force` `dp` `greedy` `math` `*1100` | Feb/01/2021 17:59 | 
+371 | [C - Ball in Berland](https://codeforces.com/contest/1475/problem/C) | [GNU C++17](./codeforces/1475/C.cpp) | `combinatorics` `graphs` `math` `*1400` | Feb/09/2021 00:25 | 
+370 | [C - Searching Local Minimum](https://codeforces.com/contest/1480/problem/C) | [GNU C++17](./codeforces/1480/C.cpp) | `binary search` `interactive` `ternary search` `*1700` | Feb/08/2021 23:02 | 
+369 | [B - The Great Hero](https://codeforces.com/contest/1480/problem/B) | [GNU C++17](./codeforces/1480/B.cpp) | `greedy` `implementation` `sortings` | Feb/08/2021 22:50 | 
+368 | [A - Yet Another String Game](https://codeforces.com/contest/1480/problem/A) | [GNU C++17](./codeforces/1480/A.cpp) | `games` `greedy` `strings` | Feb/08/2021 22:22 | 
+367 | [B - New Colony](https://codeforces.com/contest/1481/problem/B) | [GNU C++17](./codeforces/1481/B.cpp) | `brute force` `greedy` `implementation` `*1100` | Feb/05/2021 22:51 | 
+366 | [A - Space Navigation ](https://codeforces.com/contest/1481/problem/A) | [GNU C++17](./codeforces/1481/A.cpp) | `greedy` `strings` `*800` | Feb/05/2021 20:19 | 
+365 | [B - Vika and Squares](https://codeforces.com/contest/610/problem/B) | [GNU C++17](./codeforces/610/B.cpp) | `constructive algorithms` `implementation` `*1300` | Feb/03/2021 16:25 | 
+364 | [A - Pasha and Stick](https://codeforces.com/contest/610/problem/A) | [GNU C++17](./codeforces/610/A.cpp) | `combinatorics` `math` `*1000` | Feb/03/2021 15:46 | 
+363 | [B - Nezzar and Lucky Number](https://codeforces.com/contest/1478/problem/B) | [GNU C++17](./codeforces/1478/B.cpp) | `brute force` `dp` `greedy` `math` `*1100` | Feb/01/2021 17:59 | 
+362 | [A - Nezzar and Colorful Balls](https://codeforces.com/contest/1478/problem/A) | [GNU C++17](./codeforces/1478/A.cpp) | `brute force` `greedy` `*800` | Feb/01/2021 17:52 | 
 361 | [D - Staircase Sequences](https://atcoder.jp/contests/abc190/tasks/abc190_d) | [C++ (GCC 9.2.1)](./atcoder/abc190/D.cpp) | `AtCoder` `*400` | Jan/30/2021 18:55 | 
 360 | [B - Magic 3](https://atcoder.jp/contests/abc190/tasks/abc190_b) | [C++ (GCC 9.2.1)](./atcoder/abc190/B.cpp) | `AtCoder` `*200` | Jan/30/2021 17:38 | 
 359 | [A - Very Very Primitive Game](https://atcoder.jp/contests/abc190/tasks/abc190_a) | [C++ (GCC 9.2.1)](./atcoder/abc190/A.cpp) | `AtCoder` `*100` | Jan/30/2021 17:35 | 
