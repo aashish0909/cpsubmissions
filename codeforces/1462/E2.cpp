@@ -58,10 +58,12 @@ void solve()
 		while (left <= right) {
 			int mid = (left + right) / 2;
 			if (a[mid] - a[i] <= k) {
-				left = mid + 1, pos = left;
+				left = mid + 1;
 			}
 			else
 				right = mid - 1;
+
+			pos = left;
 		}
 		int total = pos - i - 1;
 		// cerr << a[i] << " " << total << endl;
