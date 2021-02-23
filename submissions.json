@@ -815,6 +815,22 @@
     ],
     "timestamp": "Feb/06/2021 17:35"
   },
+  "AC20452494": {
+    "contest_id": "abc083",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc083\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Libra",
+    "problem_url": "https://atcoder.jp/contests/abc083/tasks/abc083_a",
+    "submission_id": "AC20452494",
+    "submission_url": "https://atcoder.jp/contests/abc083/submissions/20452494",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Feb/23/2021 23:37"
+  },
   "AC20452537": {
     "contest_id": "abc083",
     "language": "C++ (GCC 9.2.1)",
