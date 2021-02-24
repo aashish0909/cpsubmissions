@@ -2660,6 +2660,22 @@
     ],
     "timestamp": "Feb/19/2021 20:12"
   },
+  "CF108369171": {
+    "contest_id": 344,
+    "language": "GNU C++17",
+    "path": "codeforces\\344\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Magnets",
+    "problem_url": "https://codeforces.com/contest/344/problem/A",
+    "submission_id": "CF108369171",
+    "submission_url": "https://codeforces.com/contest/344/submission/108369171",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Feb/24/2021 12:27"
+  },
   "CF108369830": {
     "contest_id": 381,
     "language": "GNU C++17",
