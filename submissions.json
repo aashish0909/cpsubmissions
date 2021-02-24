@@ -815,6 +815,22 @@
     ],
     "timestamp": "Feb/06/2021 17:35"
   },
+  "AC20462203": {
+    "contest_id": "abc076",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc076\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Dubious Document 2",
+    "problem_url": "https://atcoder.jp/contests/abc076/tasks/abc076_c",
+    "submission_id": "AC20462203",
+    "submission_url": "https://atcoder.jp/contests/abc076/submissions/20462203",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/24/2021 15:31"
+  },
   "AC20653375": {
     "contest_id": "abc191",
     "language": "C++ (GCC 9.2.1)",
