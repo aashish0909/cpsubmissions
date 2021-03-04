@@ -815,6 +815,22 @@
     ],
     "timestamp": "Feb/06/2021 17:35"
   },
+  "AC20653787": {
+    "contest_id": "abc192",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc192\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Kaprekar Number",
+    "problem_url": "https://atcoder.jp/contests/abc192/tasks/abc192_c",
+    "submission_id": "AC20653787",
+    "submission_url": "https://atcoder.jp/contests/abc192/submissions/20653787",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Mar/04/2021 20:36"
+  },
   "AC20691243": {
     "contest_id": "abc194",
     "language": "C++ (GCC 9.2.1)",
