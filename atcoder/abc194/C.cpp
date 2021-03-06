@@ -1,23 +1,44 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
-int main()
+#define int long long int
+#define endl "\n"
+#define aashish_999 ios_base::sync_with_stdio(false);cin.tie(NULL)
+
+void solve()
 {
-    long long s = 0, s1 = 0;
-    long long n, i;
+    //read the question properly
+
+    int n;
     cin >> n;
-    long long a[n];
-    for (i = 0; i < n; i++)
-    {
-        cin >> a[i];
-        s = s + a[i];
-    }
-    s1 = (n - 1) * (a[n - 1] * a[n - 1]);
-    for (i = 0; i < n - 1; i++)
-    {
-        s = s - a[i];
-        s1 = s1 + ((n - 1) * a[i] * a[i]) - (2 * a[i] * s);
+    vector<int> a(n);
+    for (auto &i : a)
+        cin >> i;
+
+    int sum = a[n - 1] * a[n - 1] * (n - 1);
+    vector<int> suff(n);
+    suff[n - 1] = a[n - 1];
+    for (int i = n - 2; i >= 0; i--)
+        suff[i] = suff[i + 1] + a[i];
+
+    for (int i = 0; i < n - 1; i++) {
+        sum += ((n - 1) * (a[i] * a[i]));
+        sum -= (2 * (a[i] * suff[i + 1]));
+        // cout << suff[i + 1] << " ";
     }
 
-    cout << s1;
+    cout << sum;
+
+}
+
+int32_t main()
+{
+    aashish_999;
+
+    int testcases = 1;
+    //cin >> testcases;
+    while (testcases--)
+    {
+        solve();
+    }
 }
