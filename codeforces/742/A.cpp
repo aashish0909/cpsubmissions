@@ -1,48 +1,35 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-using ll =                   long long int;
-using pll =                  pair<ll, ll>;
-#define endl                 "\n"
-#define space                " "
-#define TLE_na_ho            ios_base::sync_with_stdio(false);cin.tie(NULL)
-#define MAX_SIZE             1024
-#define MOD                  1000000007
-#define pb                   push_back
-#define fi                   first
-#define se                   second
-#define f(a,n)               for(ll i=a;i<n;i++)
-#define fe(a,n)              for(ll i=a;i<=n;i++)
-#define fr(a,n)              for(ll i=a;i>=n;i--)
-#define ain(arr,n)           for(ll i1=0;i1<n;i1++ ) cin>>arr[i1]
-#define aout(arr,n)          for(ll i1=0;i1<n;i1++ ) cout<<arr[i1]<<space
+#define int long long int
+#define endl "\n"
+#define aashish_999 ios_base::sync_with_stdio(false);cin.tie(NULL)
 
-
-int main()
+void solve()
 {
-    TLE_na_ho;
-    ll n;
-    cin >> n;
-    if(n==0)
-    {
-    	cout<<"1";
-    	return 0;
-    }
-    ll s = n % 4;
-    switch(s)
-    {
-    case 0 :
-        cout << "6";
-        break;
-    case 1 :
-        cout << "8";
-        break;
-    case 2 :
-        cout << "4";
-        break;
-    case 3:
-        cout << "2";
-        break;
-    }
+	//read the question properly
 
+	int n;
+	cin >> n;
+	if(n==0)
+		cout<<1;
+	else if (n % 4 == 0)
+		cout << 6;
+	else if (n % 4 == 1)
+		cout << 8;
+	else if (n % 4 == 2)
+		cout << 4;
+	else cout << 2;
+}
+
+int32_t main()
+{
+	aashish_999;
+
+	int testcases = 1;
+	//cin >> testcases;
+	while (testcases--)
+	{
+		solve();
+	}
 }
