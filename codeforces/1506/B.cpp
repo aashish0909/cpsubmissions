@@ -12,35 +12,59 @@ void solve()
 	cin >> n >> k;
 	string s;
 	cin >> s;
-	int cnt = 0;
+
+	int a[n];
+	int f = 0;
+
+	a[n - 1] = n - 1;
+	for (int i = n - 2; i >= 0; i--) {
+		if (s[i + 1] == '.' && s[i] == '.' )
+			a[i] = a[i + 1];
+		else  a[i] = i;
+	}
+	bool flag = false;
+	int ans =  0;
+
 	for (int i = 0; i < n; i++) {
-		if (s[i] == '*') {
-			s[i] = 'x';
-			++cnt;
-			for (int j = min(n - 1, i + k); j >= i; j--) {
-				if (s[j] == '*') {
-					i = j - 1;
-					break;
-				}
+
+		if (flag == 1) f++;
+		if (s[i] == '*' && (f == k || !flag)) {
+			ans++;
+			s[i] = '#';
+			flag = true;
+			f = 0;
+			continue;
+		}
+		else if (flag && s[i] == '.' && s[i - 1] == '*') {
+			int cnt = a[i] - i + 1;
+			if ( f + cnt > k ) {
+				ans++;
+				f = 1;
+				s[i - 1] = '#';
+				flag = 1;
 			}
 		}
 	}
-	for (int i = n - 1; i >= 0; i--) {
-		if (s[i] == '*') {
-			cout << cnt + 1 << endl;
-			return;
+	n-=1;
+	while (n >= 0) {
+		if (s[n] == '#')break;
+		else if (s[n] == '*') {
+			ans++; break;
 		}
-		else if (s[i] == 'x')
-		{
-			cout << cnt << endl;
-			return;
-		}
+
+		n--;
 	}
+	cout << ans << endl;
 }
 
 int32_t main()
 {
 	aashish_999;
+#ifndef ONLINE_JUDGE
+	freopen("input.txt", "r", stdin);
+	freopen("output.txt", "w", stdout);
+#endif
+
 
 	int testcases = 1;
 	cin >> testcases;
