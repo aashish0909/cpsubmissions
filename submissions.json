@@ -815,6 +815,22 @@
     ],
     "timestamp": "Feb/06/2021 17:35"
   },
+  "AC22409503": {
+    "contest_id": "abc200",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc200\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Ringo's Favorite Numbers 2",
+    "problem_url": "https://atcoder.jp/contests/abc200/tasks/abc200_c",
+    "submission_id": "AC22409503",
+    "submission_url": "https://atcoder.jp/contests/abc200/submissions/22409503",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "May/08/2021 17:42"
+  },
   "AC22596819": {
     "contest_id": "abc201",
     "language": "C++ (GCC 9.2.1)",
