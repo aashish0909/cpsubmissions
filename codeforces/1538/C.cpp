@@ -14,28 +14,23 @@ void solve()
 	vector<int> a(n);
 	for (auto &i : a) cin >> i;
 	sort(a.begin(), a.end());
-	int low = 0, high = n - 1;
-	int total = 0;
-	while (low <= high) {
-		if (a[low] + a[high] < l)
-			total += (high - low), ++low;
-		else --high;
+
+	int cnt = 0;
+
+	int i = 0;
+	int low = n - 1, high = n - 1;
+	while (i < high) {
+		low = max(low, i);
+		while (low > i && a[i] + a[low] >= l)
+			--low;
+		while (high > low && a[i] + a[high] > r)
+			--high;
+		cnt += high - low;
+		// cout << low << " " << high << endl;
+		++i;
 	}
-	low = 0;
-	high = n - 1;
-	int lessthanr = 0;
-	while (low <= high)
-	{
-		if (a[low] + a[high] <= r)
-			lessthanr += (high - low), ++low;
-		else --high;
-	}
 
-	total += (n * (n - 1) / 2) - lessthanr;
-
-	cout << (n * (n - 1) / 2) - total << endl;
-
-
+	cout << cnt << endl;
 }
 
 int32_t main()
