@@ -4859,6 +4859,23 @@
     ],
     "timestamp": "May/24/2021 20:55"
   },
+  "CF119780076": {
+    "contest_id": 764,
+    "language": "GNU C++17",
+    "path": "codeforces\\764\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Timofey and cubes",
+    "problem_url": "https://codeforces.com/contest/764/problem/B",
+    "submission_id": "CF119780076",
+    "submission_url": "https://codeforces.com/contest/764/submission/119780076",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jun/18/2021 15:27"
+  },
   "CF119781036": {
     "contest_id": 822,
     "language": "GNU C++17",
