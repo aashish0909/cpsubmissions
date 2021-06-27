@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "May/15/2021 17:33"
   },
+  "AC23816680": {
+    "contest_id": "abc207",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc207\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Many Segments",
+    "problem_url": "https://atcoder.jp/contests/abc207/tasks/abc207_c",
+    "submission_id": "AC23816680",
+    "submission_url": "https://atcoder.jp/contests/abc207/submissions/23816680",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jun/27/2021 11:51"
+  },
   "AC24010236": {
     "contest_id": "abc208",
     "language": "C++ (GCC 9.2.1)",
