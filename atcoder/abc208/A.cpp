@@ -11,7 +11,7 @@ void solve()
 
     int a, b;
     cin >> a >> b;
-    if (a <= b and b <= (a * 6)) cout << "Yes" << endl;
+    if (b >= a && b <= a * 6) cout << "Yes" << endl;
     else cout << "No" << endl;
 }
 
