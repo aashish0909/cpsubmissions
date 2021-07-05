@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "May/15/2021 17:33"
   },
+  "AC24010532": {
+    "contest_id": "abc208",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc208\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Fair Candy Distribution",
+    "problem_url": "https://atcoder.jp/contests/abc208/tasks/abc208_c",
+    "submission_id": "AC24010532",
+    "submission_url": "https://atcoder.jp/contests/abc208/submissions/24010532",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jul/05/2021 17:00"
+  },
   "CF101552043": {
     "contest_id": 1463,
     "language": "GNU C++17",
